@@ -1,0 +1,1 @@
+# Exercicio072.py
